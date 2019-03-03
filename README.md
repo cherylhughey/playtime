@@ -85,7 +85,7 @@ or by downloading directly from [nodejs.org][node-direct].
 [node-direct]: https://nodejs.org/en/download/
 
 You will also need Git, Ruby, Rails, and PostgreSQL. If you have Git and
-Postgres in some version or another you're probably set. But:
+Postgres in some version or another, you're probably set. But:
 
   - If you're working on **a fresh Windows machine**, you're best off installing
     Ruby and Rails with the [Rails Installer]. For PostgreSQL, you'll want to
